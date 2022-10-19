@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bohredd&label=Profile%20views&color=0e75b6&style=flat" alt="bohredd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bohredd" alt="bohredd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bohredd&theme=discord" alt="bohredd" /></a> </p>
 
 - 🔭 I’m currently working on [Servicos Dinformatica APP](https://github.com/Bohredd/DInformaticaAPP)
 

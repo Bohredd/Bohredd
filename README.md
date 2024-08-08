@@ -24,10 +24,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📂 Main Projects:
-TODO:
-<!--[![Project 1](https://img.shields.io/badge/Project%201-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project1)
-[![Project 2](https://img.shields.io/badge/Project%202-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project2)
-[![Project 3](https://img.shields.io/badge/Project%203-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project3)-->
+[![Zorgen Django Templator ](https://img.shields.io/badge/Project%201-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bohredd/zorgen-manager)
+[![Unir-se e Ir](https://img.shields.io/badge/Project%202-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bohredd/unirseeir)
+[![CS2 Market Raffler](https://img.shields.io/badge/Project%203-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bohredd/cs2-market-raffle)
+[![DInformática APP](https://img.shields.io/badge/Project%203-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bohredd/DInformaticaAPP)
+
 
 # ![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bohredd&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>

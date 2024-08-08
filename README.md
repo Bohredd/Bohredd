@@ -24,10 +24,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📂 Main Projects:
-[![Zorgen Django Templator ](https://img.shields.io/badge/Project%201-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bohredd/zorgen-manager)
-[![Unir-se e Ir](https://img.shields.io/badge/Project%202-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bohredd/unirseeir)
-[![CS2 Market Raffler](https://img.shields.io/badge/Project%203-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bohredd/cs2-market-raffle)
-[![DInformática APP](https://img.shields.io/badge/Project%203-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bohredd/DInformaticaAPP)
+[![Zorgen Django Templator](https://img.shields.io/badge/Zorgen%20Django%20Templator-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bohredd/zorgen-manager)  
+[![Unir-se e Ir](https://img.shields.io/badge/Unir--se%20e%20Ir-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bohredd/unirseeir)  
+[![CS2 Market Raffler](https://img.shields.io/badge/CS2%20Market%20Raffler-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bohredd/cs2-market-raffle)  
+[![DInformática APP](https://img.shields.io/badge/DInform%C3%A1tica%20APP-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bohredd/DInformaticaAPP)
 
 
 # ![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) Stats:

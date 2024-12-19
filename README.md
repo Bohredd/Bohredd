@@ -2,7 +2,7 @@
 FullStack Developer
 -------------------
 
-*   🚀  I'm currently working on [ITerview](http://github.com/Bohredd/ITerview)
+*   🚀  I'm currently working on [ITerview](http://github.com/Bohredd/ITerview), [ViajaMais](http://github.com/Bohredd/ViajaMais) and [PratoCerto](http://github.com/Bohredd/PratoCerto)
 
 ### Skills 
 <p align="left">
